@@ -1,4 +1,4 @@
-# Página de vendas de Headphones responsiva 🎧
+# Página de vendas de Headphones responsiva
 ![](/preview.png)
 
 ### Página de vendas de Headphones responsiva 🎧
